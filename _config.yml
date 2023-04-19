@@ -4,10 +4,3 @@ plugins:
 title: Interactive SVG Schematics
 description: Architect is a theme for GitHub Pages.
 show_downloads: false
-pages:
-  - name: Page 1
-    path: /_pages/page1.html
-  - name: Page 2
-    path: /_pages/page2.html
-  - name: Page 3
-    path: /_pages/page3.html
