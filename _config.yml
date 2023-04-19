@@ -6,8 +6,8 @@ description: Architect is a theme for GitHub Pages.
 show_downloads: false
 pages:
   - name: Page 1
-    path: /page1.html
+    path: /_pages/page1.html
   - name: Page 2
-    path: /page2.html
+    path: /_pages/page2.html
   - name: Page 3
-    path: /page3.html
+    path: /_pages/page3.html
